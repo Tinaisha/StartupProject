@@ -5,3 +5,5 @@ https://drive.google.com/drive/folders/1b0sDx4yBEE7DY2EM3962UiwxGmnQINLJ?usp=sha
 
 The official website where I got this data from:
 https://www.kaggle.com/kemical/kickstarter-projects
+
+This project is one of my assignment for deep learning course.
